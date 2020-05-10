@@ -1,8 +1,8 @@
 aaaaaaa
 no fast forward
 ccccccc
-ddddddd
-eeeeeee
+push
+pull
 fffffff
 modify index.text
 add new command
