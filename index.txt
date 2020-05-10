@@ -3,6 +3,8 @@ no fast forward
 ccccccc
 rm
 mv
+push
+pull
 fffffff
 modify index.text
 add new command
