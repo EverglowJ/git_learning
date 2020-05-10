@@ -1,4 +1,4 @@
-aaaaaaa
+We are learning Git.
 no fast forward
 ccccccc
 rm
