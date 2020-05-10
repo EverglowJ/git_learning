@@ -5,3 +5,4 @@ ddddddd
 eeeeeee
 fffffff
 modify index.text
+add new command
